@@ -1,0 +1,4 @@
+
+# > Apple Proxy
+HOST,tv.applemusic.com *,PROXY
+HOST-SUFFIX,podcasts.apple.com,PROXY
