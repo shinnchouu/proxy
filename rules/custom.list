@@ -1,0 +1,17 @@
+# private rules
+# 广告屏蔽
+# 航旅纵横 开屏广告
+DOMAIN-SUFFIX, analytics.umetrip.com, reject
+# 航旅纵横 开屏广告
+DOMAIN-SUFFIX, ume1.umetrip.com, reject
+# 起点 开屏广告
+DOMAIN-SUFFIX, imgservices-1252317822.image.myqcloud.com, reject
+# 美团 开屏广告
+DOMAIN-SUFFIX, nstool.zhuanzfx.com, reject
+DOMAIN-SUFFIX, nstool.haowu.link, reject
+
+# 其他
+# apple 音乐视频
+DOMAIN-SUFFIX, tv.applemusic.com, US
+# apple 播客
+DOMAIN-SUFFIX, podcasts.apple.com, HK
