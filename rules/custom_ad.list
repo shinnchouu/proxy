@@ -1,0 +1,11 @@
+# custom rules
+# 广告屏蔽
+# 航旅纵横 开屏广告
+DOMAIN, analytics.umetrip.com
+# 航旅纵横 开屏广告
+DOMAIN, ume1.umetrip.com
+# 起点 开屏广告
+DOMAIN, imgservices-1252317822.image.myqcloud.com
+# 美团 开屏广告
+DOMAIN-SUFFIX, nstool.zhuanzfx.com
+DOMAIN-SUFFIX, nstool.haowu.link
