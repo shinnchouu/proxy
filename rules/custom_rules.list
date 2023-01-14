@@ -4,9 +4,9 @@ DOMAIN-SUFFIX, tv.applemusic.com
 DOMAIN-SUFFIX, podcasts.apple.com
 # v2ex
 DOMAIN-SUFFIX, v2ex.com
-#xvideos
+# xvideos
 DOMAIN-SUFFIX, xvideos.com
-#duolingo
-DOMAIN-SUFFIX, duolingo.com
 DOMAIN-SUFFIX, avgle.com
+# duolingo
+DOMAIN-SUFFIX, duolingo.com
 
