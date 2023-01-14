@@ -2,7 +2,6 @@
 # 广告屏蔽
 # 航旅纵横 开屏广告
 DOMAIN-SUFFIX, analytics.umetrip.com
-# 航旅纵横 开屏广告
 DOMAIN-SUFFIX, ume1.umetrip.com
 # 美团 开屏广告
 DOMAIN-SUFFIX, nstool.zhuanzfx.com
