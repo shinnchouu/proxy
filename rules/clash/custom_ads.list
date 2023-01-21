@@ -1,0 +1,7 @@
+payload:
+  # 航旅纵横 开屏广告
+  - DOMAIN-SUFFIX, analytics.umetrip.com
+  - DOMAIN-SUFFIX, ume1.umetrip.com
+  # 美团 开屏广告
+  - DOMAIN-SUFFIX, nstool.zhuanzfx.com
+  - DOMAIN-SUFFIX, nstool.haowu.link
