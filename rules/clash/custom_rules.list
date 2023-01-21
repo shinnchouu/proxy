@@ -1,0 +1,9 @@
+payload:
+  # apple 音乐视频
+  - DOMAIN-SUFFIX, tv.applemusic.com
+  # apple 播客
+  - DOMAIN-SUFFIX, podcasts.apple.com
+  - DOMAIN-SUFFIX, v2ex.com
+  - DOMAIN-SUFFIX, xvideos.com
+  - DOMAIN-SUFFIX, avgle.com
+  - DOMAIN-SUFFIX, duolingo.com
